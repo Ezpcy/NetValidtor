@@ -1,0 +1,10 @@
+/home/ezpz/Nextcloud/NextcloudData/ObsidianVault/NextcloudVault/Schule/Module/320 - Objektorientiert Programmieren/netvalidator/target/debug/deps/libminidom-cbc69e8e2cca97ff.rmeta: /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/lib.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/convert.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/element.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/error.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/namespace_set.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/node.rs
+
+/home/ezpz/Nextcloud/NextcloudData/ObsidianVault/NextcloudVault/Schule/Module/320 - Objektorientiert Programmieren/netvalidator/target/debug/deps/minidom-cbc69e8e2cca97ff.d: /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/lib.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/convert.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/element.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/error.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/namespace_set.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/node.rs
+
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/lib.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/convert.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/element.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/error.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/namespace_set.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/minidom-0.12.0/src/node.rs:

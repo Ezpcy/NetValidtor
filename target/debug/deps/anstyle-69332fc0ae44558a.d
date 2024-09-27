@@ -1,0 +1,10 @@
+/home/ezpz/Nextcloud/NextcloudData/ObsidianVault/NextcloudVault/Schule/Module/320 - Objektorientiert Programmieren/netvalidator/target/debug/deps/libanstyle-69332fc0ae44558a.rmeta: /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/lib.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/macros.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/color.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/effect.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/reset.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/style.rs
+
+/home/ezpz/Nextcloud/NextcloudData/ObsidianVault/NextcloudVault/Schule/Module/320 - Objektorientiert Programmieren/netvalidator/target/debug/deps/anstyle-69332fc0ae44558a.d: /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/lib.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/macros.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/color.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/effect.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/reset.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/style.rs
+
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/lib.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/macros.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/color.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/effect.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/reset.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.8/src/style.rs:

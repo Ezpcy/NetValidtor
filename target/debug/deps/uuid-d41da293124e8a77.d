@@ -1,0 +1,12 @@
+/home/ezpz/Nextcloud/NextcloudData/ObsidianVault/NextcloudVault/Schule/Module/320 - Objektorientiert Programmieren/netvalidator/target/debug/deps/libuuid-d41da293124e8a77.rmeta: /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/lib.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/builder.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/error.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/parser.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/fmt.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/timestamp.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/external.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/macros.rs
+
+/home/ezpz/Nextcloud/NextcloudData/ObsidianVault/NextcloudVault/Schule/Module/320 - Objektorientiert Programmieren/netvalidator/target/debug/deps/uuid-d41da293124e8a77.d: /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/lib.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/builder.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/error.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/parser.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/fmt.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/timestamp.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/external.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/macros.rs
+
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/lib.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/builder.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/error.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/parser.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/fmt.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/timestamp.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/external.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-1.10.0/src/macros.rs:

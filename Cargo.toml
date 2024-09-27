@@ -6,3 +6,24 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+serde = { version = "1.0.203", features = ["derive"] }
+regex = "1.10.5"
+env_logger = "0.11.3"
+serde_json = "1.0.117"
+futures = "0.3.30"
+notify = "6.1.1"
+quick-xml = { version = "0.32.0", features = ["serde", "serialize"] }
+futures-util = "0.3.30"
+uuid = "1.8.0"
+quickxml_to_serde = "0.6.0"
+log = "0.4.21"
+chrono = "0.4.38"
+simple_logger = "5.0.0"
+fern = "0.6.2"
+tokio = { version = "1.38.0", features = [
+    "io-util",
+    "net",
+    "macros",
+    "sync",
+    "rt-multi-thread",
+] }

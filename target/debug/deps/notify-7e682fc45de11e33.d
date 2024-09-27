@@ -1,0 +1,11 @@
+/home/ezpz/Nextcloud/NextcloudData/ObsidianVault/NextcloudVault/Schule/Module/320 - Objektorientiert Programmieren/netvalidator/target/debug/deps/libnotify-7e682fc45de11e33.rmeta: /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs
+
+/home/ezpz/Nextcloud/NextcloudData/ObsidianVault/NextcloudVault/Schule/Module/320 - Objektorientiert Programmieren/netvalidator/target/debug/deps/notify-7e682fc45de11e33.d: /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs /home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs
+
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/lib.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/inotify.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/event.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/null.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/poll.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/config.rs:
+/home/ezpz/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-6.1.1/src/error.rs:
